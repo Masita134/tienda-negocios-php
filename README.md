@@ -25,3 +25,7 @@ El proyecto utiliza el patrón **Modelo-Vista-Controlador (MVC)** organizado de 
 - **Controlador (`app/Controllers/`)**: Contiene la lógica de negocio (`ProductoController`), obtiene los datos del modelo y los envía a la vista.
 - **Vista (`views/`)**: Contiene los archivos HTML/PHP (`Listado.php`) encargados de mostrar la información al usuario final.
 - **Front Controller (`index.php`)**: Es el punto de entrada principal a la aplicación.
+## Autor
+
+**Nombre:** Maximo Holstein
+**Email:** maximoholstein@gmail.com
