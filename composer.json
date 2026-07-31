@@ -1,0 +1,16 @@
+{
+    "name": "usuario/proyecto",
+    "description": "Tienda en PHP para la Entrega 1",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Masita134",
+            "email": "maximoholstein@gmail.com"
+        }
+    ],
+    "require": {}
+}
